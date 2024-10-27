@@ -7,9 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -33,5 +30,27 @@ The Online Library Management System is a web application designed to streamline
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/library-management-system.git
+2. Navigate to the project directory:
+  - cd library-management-system
+3.Install backend dependencies:
+ - cd backend
+  -npm install
+4.Install frontend dependencies:
+ - cd ../frontend
+  - npm install
+## Running the Application
+-Backend
+1.Navigate to the backend directory:
+  cd backend
+2.Start the backend server:
+  npm start
+-Frontend
+1.Navigate to the frontend directory: 
+  cd ../frontend
+2.Start the frontend application
+  npm start
+
+
+
 
 
