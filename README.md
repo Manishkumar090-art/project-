@@ -7,7 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Code Structure](#code-structure)
 - [Running the Application](#running-the-application)
-- [Contact](#contact)
 
 ## Introduction
 The Online Library Management System is a web application designed to streamline library operations. It enables users to search for books, manage their accounts, and perform borrowing and returning actions, while providing administrators with tools to manage the library effectively.
