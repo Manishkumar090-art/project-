@@ -21,7 +21,7 @@ The Online Library Management System is a web application designed to streamline
 - Responsive user interface for both desktop and mobile
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, java, JavaScript, React
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Other:** Git, Docker (optional)
