@@ -20,10 +20,10 @@ The Online Library Management System is a web application designed to manage lib
 - Responsive design for mobile and desktop use
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, [Frontend Framework (e.g., React, Vue)]
-- **Backend:** [Backend Framework (e.g., Node.js, Django, Flask)]
-- **Database:** [Database (e.g., MongoDB, MySQL)]
-- **Other:** Git, GitHub, [Any other tools used]
+- **Frontend:** HTML, CSS, java, JavaScript, [Frontend Framework]
+- **Backend:** [Backend Framework ( Node.js, Django, Flask)]
+- **Database:** [Database ( MongoDB, MySQL)]
+- **Other:** Git, GitHub
 
 ## Installation
 1. Clone the repository:
