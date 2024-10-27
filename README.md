@@ -6,29 +6,32 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Contributing](#contributing
+- [Running the Application](#running-the-application)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Introduction
-The Online Library Management System is a web application designed to manage library operations efficiently. It allows users to search for books, borrow and return them, and manage user accounts.
+The Online Library Management System is a web application designed to streamline library operations. It enables users to search for books, manage their accounts, and perform borrowing and returning actions, while providing administrators with tools to manage the library effectively.
 
 ## Features
-- User authentication and authorization
-- Search and filter books
-- Borrow and return books
+- User authentication (registration and login)
+- Book search and filtering
+- Borrow and return book functionality
 - View borrowing history
 - Admin panel for managing books and users
-- Responsive design for mobile and desktop use
+- Responsive user interface for both desktop and mobile
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, java, JavaScript, [Frontend Framework]
-- **Backend:** [Backend Framework ( Node.js, Django, Flask)]
-- **Database:** [Database ( MongoDB, MySQL)]
-- **Other:** Git, GitHub
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Other:** Git, Docker (optional)
 
 ## Installation
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-  npm install
-# or
-pip install -r requirements.txt
+   git clone https://github.com/yourusername/library-management-system.git
+
 
