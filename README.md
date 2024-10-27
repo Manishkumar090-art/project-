@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Code Structure](#code-structure)
 - [Running the Application](#running-the-application)
 - [Contact](#contact)
 
